@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522736046 source:d:\school\cs\cs 121\121assignment4\treetvshows.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+
+1522736313 source:d:\school\cs\cs 121\121assignment4\main.cpp
+	"TreeTvShows.cpp"
+
+1522736046 d:\school\cs\cs 121\121assignment4\treetvshows.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+
